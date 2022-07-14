@@ -1,10 +1,10 @@
 # gimporter
-goimporter is a tool for aliging imported-package list.
+gimporter is a tool for aliging imported-package list.
 [![License](https://img.shields.io/github/license/kazdevl/coding-rule-linter)](/LICENSE)
 
 ## Installation
 ```zsh
-$ go install github.com/kazdevl/coding-rule-linter/cmd/coding-rule-linter@latest
+$ go install github.com/kazdevl/gimporter/cmd/gimporter@latest
 ```
 
 ## Usage
