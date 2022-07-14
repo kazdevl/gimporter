@@ -1,6 +1,6 @@
 # gimporter
 gimporter is a tool for aliging imported-package list.
-[![License](https://img.shields.io/github/license/kazdevl/coding-rule-linter)](/LICENSE)
+[![License](https://img.shields.io/github/license/kazdevl/gimporter)](/LICENSE)
 
 ## Installation
 ```zsh
